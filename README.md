@@ -2,7 +2,7 @@
 
 project related to my JS journey
 
-(1) - library example
+(1) - library example, the project was completed as part of a course (JavaScript: Understanding the Weird Parts)
 
 Greetr.js, app.js and index.html - part of one project, intended to work with jQuery JavaScript Library v1.11.2
 
