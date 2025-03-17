@@ -20,6 +20,6 @@ $("#login").click(function () {
     $("#logindiv").hide();
 
     // HTML Greeting creates the JQuery object, only selector needs to be added
-    loginGrtr.setLang($('#lang').val()).HTMLGreeting('#greeting', true).log();
+    loginGrtr.setLang($("#lang").val()).HTMLGreeting("#greeting", true).log();
 
 });
